@@ -214,45 +214,45 @@
 <g transform="translate(508,174)">
 <text x="0" y="6" font-family="Consolas, Menlo, monospace" font-size="18" fill="#475569">&gt;&#160;</text>
 <clipPath id="rclip0-light">
-          <rect x="0" y="0" height="26" width="208.0">
+          <rect x="0" y="-18" height="30" width="226.0">
             <animate attributeName="width" calcMode="discrete"
-              values="0;0;208.0;208.0;0;0"
+              values="0;0;226.0;226.0;0;0"
               keyTimes="0;0.0;0.06;0.1533;0.1933;1"
               dur="15.0s" begin="0s" repeatCount="indefinite"/>
           </rect>
         </clipPath>
 <g clip-path="url(#rclip0-light)"><text x="18" y="6" font-family="Consolas, Menlo, monospace" font-size="18" fill="#0F172A">Full Stack Developer</text></g>
 <clipPath id="rclip1-light">
-          <rect x="0" y="0" height="26" width="0">
+          <rect x="0" y="-18" height="30" width="0">
             <animate attributeName="width" calcMode="discrete"
-              values="0;0;208.0;208.0;0;0"
+              values="0;0;226.0;226.0;0;0"
               keyTimes="0;0.2;0.26;0.3533;0.3933;1"
               dur="15.0s" begin="0s" repeatCount="indefinite"/>
           </rect>
         </clipPath>
 <g clip-path="url(#rclip1-light)"><text x="18" y="6" font-family="Consolas, Menlo, monospace" font-size="18" fill="#0F172A">Blockchain Developer</text></g>
 <clipPath id="rclip2-light">
-          <rect x="0" y="0" height="26" width="0">
+          <rect x="0" y="-18" height="30" width="0">
             <animate attributeName="width" calcMode="discrete"
-              values="0;0;176.8;176.8;0;0"
+              values="0;0;193.6;193.6;0;0"
               keyTimes="0;0.4;0.46;0.5533;0.5933;1"
               dur="15.0s" begin="0s" repeatCount="indefinite"/>
           </rect>
         </clipPath>
 <g clip-path="url(#rclip2-light)"><text x="18" y="6" font-family="Consolas, Menlo, monospace" font-size="18" fill="#0F172A">Android Developer</text></g>
 <clipPath id="rclip3-light">
-          <rect x="0" y="0" height="26" width="0">
+          <rect x="0" y="-18" height="30" width="0">
             <animate attributeName="width" calcMode="discrete"
-              values="0;0;176.8;176.8;0;0"
+              values="0;0;193.6;193.6;0;0"
               keyTimes="0;0.6;0.66;0.7533;0.7933;1"
               dur="15.0s" begin="0s" repeatCount="indefinite"/>
           </rect>
         </clipPath>
 <g clip-path="url(#rclip3-light)"><text x="18" y="6" font-family="Consolas, Menlo, monospace" font-size="18" fill="#0F172A">Hackathon Builder</text></g>
 <clipPath id="rclip4-light">
-          <rect x="0" y="0" height="26" width="0">
+          <rect x="0" y="-18" height="30" width="0">
             <animate attributeName="width" calcMode="discrete"
-              values="0;0;135.2;135.2;0;0"
+              values="0;0;150.4;150.4;0;0"
               keyTimes="0;0.8;0.86;0.9533;0.9933;1"
               dur="15.0s" begin="0s" repeatCount="indefinite"/>
           </rect>
